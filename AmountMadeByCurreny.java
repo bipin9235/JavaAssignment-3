@@ -1,4 +1,4 @@
-/* #Task12: Write a program to find how an amount can be using Indian currencies starts from 1000 notes
+/* #Task13: Write a program to find how an amount can be using Indian currencies starts from 1000 notes
 	and move downward.
 	e.g. 9788 [1000*9, 500*1, 100*2, 50*1, 20*1, 10*1, 5*1, 2*1, 1*1]
     Registration ID:JIRSS1132
