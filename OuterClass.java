@@ -1,3 +1,12 @@
+/* #Task 13: Write a class that has a class Measurement which has two attributes (kgs and grms). Create two  objects that has own values of kgs and grms. Create a static method “add” in that class that add kgs
+	and grms of both objects and assign result in third object.
+	Like for object m1 [kgs:5 grms:500]
+	Like for object m2 [kgs:7 grms:800]
+	Then addition will be stored in m3 [kgs:13 grms:300]
+	
+   Registration ID:JIRSS1132
+   Name: Bipin Kumar
+*/
 package ArrayAndClassObjects;
 
 public class OuterClass {
